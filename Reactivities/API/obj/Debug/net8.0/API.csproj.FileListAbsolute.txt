@@ -36,3 +36,4 @@ D:\Projeto ASP.NET + REACT\Reactivities\API\obj\Debug\net8.0\refint\API.dll
 D:\Projeto ASP.NET + REACT\Reactivities\API\obj\Debug\net8.0\API.pdb
 D:\Projeto ASP.NET + REACT\Reactivities\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 D:\Projeto ASP.NET + REACT\Reactivities\API\obj\Debug\net8.0\ref\API.dll
+D:\Projeto ASP.NET + REACT\Reactivities\API\obj\Debug\net8.0\API.sourcelink.json

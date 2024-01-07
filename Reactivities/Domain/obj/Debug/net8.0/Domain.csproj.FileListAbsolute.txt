@@ -9,3 +9,4 @@ D:\Projeto ASP.NET + REACT\Reactivities\Domain\obj\Debug\net8.0\Domain.dll
 D:\Projeto ASP.NET + REACT\Reactivities\Domain\obj\Debug\net8.0\refint\Domain.dll
 D:\Projeto ASP.NET + REACT\Reactivities\Domain\obj\Debug\net8.0\Domain.pdb
 D:\Projeto ASP.NET + REACT\Reactivities\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Projeto ASP.NET + REACT\Reactivities\Domain\obj\Debug\net8.0\Domain.sourcelink.json

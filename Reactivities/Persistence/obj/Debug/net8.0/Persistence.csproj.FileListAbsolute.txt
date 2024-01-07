@@ -13,3 +13,4 @@ D:\Projeto ASP.NET + REACT\Reactivities\Persistence\obj\Debug\net8.0\Persistence
 D:\Projeto ASP.NET + REACT\Reactivities\Persistence\obj\Debug\net8.0\refint\Persistence.dll
 D:\Projeto ASP.NET + REACT\Reactivities\Persistence\obj\Debug\net8.0\Persistence.pdb
 D:\Projeto ASP.NET + REACT\Reactivities\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+D:\Projeto ASP.NET + REACT\Reactivities\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json
